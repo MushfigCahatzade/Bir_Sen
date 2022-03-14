@@ -1,0 +1,97 @@
+Car clasinda
+
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace task_6.Models
+{
+    internal class Car : Vehicle
+    {
+        public string brand;
+        public string model;
+        public float fuelCapacity;
+        public float fuelFor1Km;
+        public float currentFuel;
+
+        public Car(float currentFuel, string color, ref string brand, ref string model, ref float fuelCapacity, ref float fuelFor1Km, ref int year) : base(color, year)
+        {
+            this.brand = brand;
+            this.model = model;
+            this.fuelCapacity = fuelCapacity;
+            this.fuelFor1Km = fuelFor1Km;
+            this.currentFuel = currentFuel;
+        }
+        public void ShowInfo()
+        {
+            Console.WriteLine($"Brend: {brand} {Environment.NewLine}" +
+                $"Model: {model} {Environment.NewLine}" +
+                $"Rəng: {color} {Environment.NewLine}" +
+                $"İl: {year} {Environment.NewLine}" +
+                $"Yanacaq tutumu: {fuelCapacity} L {Environment.NewLine}" +
+                $"1Km üçün yanacaq: {fuelFor1Km} L {Environment.NewLine}" +
+                $"Cari yanacaq: {currentFuel} L");
+        }
+        public void Drive(float way)
+        {
+            float fuelConsumption = way * fuelFor1Km;
+            if (fuelConsumption <= currentFuel)
+            {
+                Console.WriteLine(currentFuel = currentFuel - fuelConsumption);
+            } else
+            {
+                Console.WriteLine("Yanacaq çatmır");
+            }
+        }
+    }
+}
+
+
+
+
+Vehicle clasinda
+
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace task_6.Models
+{
+    internal class Vehicle
+    {
+        public string color;
+        public int year = 2010;
+
+        public Vehicle(string color, int year)
+        {
+            this.color = color;
+            this.year = year;
+        }
+    }
+}
+
+
+
+program cs de
+
+
+using System;
+using task_6.Models;
+
+namespace task_6
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string model = "Panamera", brand = "Porsche";
+            float fuelCapacity = 100, fuelFor1Km = 16;
+            int year = 2010;
+
+            Car car = new Car(45, "Qara", ref model, ref brand, ref fuelCapacity, ref fuelFor1Km, ref year);
+            //car.ShowInfo();
+
+            car.Drive(2);
+        }
+    }
+}
