@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Visual Code\TB2\TB2\bin\Debug\netcoreapp3.1\TB2.exe
+C:\Users\Administrator\Desktop\Visual Code\TB2\TB2\bin\Debug\netcoreapp3.1\TB2.deps.json
+C:\Users\Administrator\Desktop\Visual Code\TB2\TB2\bin\Debug\netcoreapp3.1\TB2.runtimeconfig.json
+C:\Users\Administrator\Desktop\Visual Code\TB2\TB2\bin\Debug\netcoreapp3.1\TB2.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Visual Code\TB2\TB2\bin\Debug\netcoreapp3.1\TB2.dll
+C:\Users\Administrator\Desktop\Visual Code\TB2\TB2\bin\Debug\netcoreapp3.1\TB2.pdb
+C:\Users\Administrator\Desktop\Visual Code\TB2\TB2\obj\Debug\netcoreapp3.1\TB2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Visual Code\TB2\TB2\obj\Debug\netcoreapp3.1\TB2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Visual Code\TB2\TB2\obj\Debug\netcoreapp3.1\TB2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Visual Code\TB2\TB2\obj\Debug\netcoreapp3.1\TB2.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Visual Code\TB2\TB2\obj\Debug\netcoreapp3.1\TB2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Visual Code\TB2\TB2\obj\Debug\netcoreapp3.1\TB2.dll
+C:\Users\Administrator\Desktop\Visual Code\TB2\TB2\obj\Debug\netcoreapp3.1\TB2.pdb
+C:\Users\Administrator\Desktop\Visual Code\TB2\TB2\obj\Debug\netcoreapp3.1\TB2.genruntimeconfig.cache
