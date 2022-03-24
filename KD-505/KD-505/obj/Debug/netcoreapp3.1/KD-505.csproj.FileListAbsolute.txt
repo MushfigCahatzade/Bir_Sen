@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Visual Code\KD-505\KD-505\bin\Debug\netcoreapp3.1\KD-505.exe
+C:\Users\Administrator\Desktop\Visual Code\KD-505\KD-505\bin\Debug\netcoreapp3.1\KD-505.deps.json
+C:\Users\Administrator\Desktop\Visual Code\KD-505\KD-505\bin\Debug\netcoreapp3.1\KD-505.runtimeconfig.json
+C:\Users\Administrator\Desktop\Visual Code\KD-505\KD-505\bin\Debug\netcoreapp3.1\KD-505.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Visual Code\KD-505\KD-505\bin\Debug\netcoreapp3.1\KD-505.dll
+C:\Users\Administrator\Desktop\Visual Code\KD-505\KD-505\bin\Debug\netcoreapp3.1\KD-505.pdb
+C:\Users\Administrator\Desktop\Visual Code\KD-505\KD-505\obj\Debug\netcoreapp3.1\KD-505.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Visual Code\KD-505\KD-505\obj\Debug\netcoreapp3.1\KD-505.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Visual Code\KD-505\KD-505\obj\Debug\netcoreapp3.1\KD-505.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Visual Code\KD-505\KD-505\obj\Debug\netcoreapp3.1\KD-505.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Visual Code\KD-505\KD-505\obj\Debug\netcoreapp3.1\KD-505.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Visual Code\KD-505\KD-505\obj\Debug\netcoreapp3.1\KD-505.dll
+C:\Users\Administrator\Desktop\Visual Code\KD-505\KD-505\obj\Debug\netcoreapp3.1\KD-505.pdb
+C:\Users\Administrator\Desktop\Visual Code\KD-505\KD-505\obj\Debug\netcoreapp3.1\KD-505.genruntimeconfig.cache
