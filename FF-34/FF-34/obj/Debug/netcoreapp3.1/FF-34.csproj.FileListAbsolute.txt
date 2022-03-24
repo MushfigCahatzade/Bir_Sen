@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Visual Code\FF-34\FF-34\bin\Debug\netcoreapp3.1\FF-34.exe
+C:\Users\Administrator\Desktop\Visual Code\FF-34\FF-34\bin\Debug\netcoreapp3.1\FF-34.deps.json
+C:\Users\Administrator\Desktop\Visual Code\FF-34\FF-34\bin\Debug\netcoreapp3.1\FF-34.runtimeconfig.json
+C:\Users\Administrator\Desktop\Visual Code\FF-34\FF-34\bin\Debug\netcoreapp3.1\FF-34.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Visual Code\FF-34\FF-34\bin\Debug\netcoreapp3.1\FF-34.dll
+C:\Users\Administrator\Desktop\Visual Code\FF-34\FF-34\bin\Debug\netcoreapp3.1\FF-34.pdb
+C:\Users\Administrator\Desktop\Visual Code\FF-34\FF-34\obj\Debug\netcoreapp3.1\FF-34.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Visual Code\FF-34\FF-34\obj\Debug\netcoreapp3.1\FF-34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Visual Code\FF-34\FF-34\obj\Debug\netcoreapp3.1\FF-34.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Visual Code\FF-34\FF-34\obj\Debug\netcoreapp3.1\FF-34.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Visual Code\FF-34\FF-34\obj\Debug\netcoreapp3.1\FF-34.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Visual Code\FF-34\FF-34\obj\Debug\netcoreapp3.1\FF-34.dll
+C:\Users\Administrator\Desktop\Visual Code\FF-34\FF-34\obj\Debug\netcoreapp3.1\FF-34.pdb
+C:\Users\Administrator\Desktop\Visual Code\FF-34\FF-34\obj\Debug\netcoreapp3.1\FF-34.genruntimeconfig.cache
