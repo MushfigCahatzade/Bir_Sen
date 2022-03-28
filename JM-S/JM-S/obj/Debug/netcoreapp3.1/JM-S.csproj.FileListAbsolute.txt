@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Visual Code\JM-S\JM-S\bin\Debug\netcoreapp3.1\JM-S.exe
+C:\Users\Administrator\Desktop\Visual Code\JM-S\JM-S\bin\Debug\netcoreapp3.1\JM-S.deps.json
+C:\Users\Administrator\Desktop\Visual Code\JM-S\JM-S\bin\Debug\netcoreapp3.1\JM-S.runtimeconfig.json
+C:\Users\Administrator\Desktop\Visual Code\JM-S\JM-S\bin\Debug\netcoreapp3.1\JM-S.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Visual Code\JM-S\JM-S\bin\Debug\netcoreapp3.1\JM-S.dll
+C:\Users\Administrator\Desktop\Visual Code\JM-S\JM-S\bin\Debug\netcoreapp3.1\JM-S.pdb
+C:\Users\Administrator\Desktop\Visual Code\JM-S\JM-S\obj\Debug\netcoreapp3.1\JM-S.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Visual Code\JM-S\JM-S\obj\Debug\netcoreapp3.1\JM-S.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Visual Code\JM-S\JM-S\obj\Debug\netcoreapp3.1\JM-S.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Visual Code\JM-S\JM-S\obj\Debug\netcoreapp3.1\JM-S.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Visual Code\JM-S\JM-S\obj\Debug\netcoreapp3.1\JM-S.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Visual Code\JM-S\JM-S\obj\Debug\netcoreapp3.1\JM-S.dll
+C:\Users\Administrator\Desktop\Visual Code\JM-S\JM-S\obj\Debug\netcoreapp3.1\JM-S.pdb
+C:\Users\Administrator\Desktop\Visual Code\JM-S\JM-S\obj\Debug\netcoreapp3.1\JM-S.genruntimeconfig.cache
