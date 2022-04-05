@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Visual Code\WYU-980\WYU-980\bin\Debug\netcoreapp3.1\WYU-980.exe
+C:\Users\Administrator\Desktop\Visual Code\WYU-980\WYU-980\bin\Debug\netcoreapp3.1\WYU-980.deps.json
+C:\Users\Administrator\Desktop\Visual Code\WYU-980\WYU-980\bin\Debug\netcoreapp3.1\WYU-980.runtimeconfig.json
+C:\Users\Administrator\Desktop\Visual Code\WYU-980\WYU-980\bin\Debug\netcoreapp3.1\WYU-980.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Visual Code\WYU-980\WYU-980\bin\Debug\netcoreapp3.1\WYU-980.dll
+C:\Users\Administrator\Desktop\Visual Code\WYU-980\WYU-980\bin\Debug\netcoreapp3.1\WYU-980.pdb
+C:\Users\Administrator\Desktop\Visual Code\WYU-980\WYU-980\obj\Debug\netcoreapp3.1\WYU-980.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Visual Code\WYU-980\WYU-980\obj\Debug\netcoreapp3.1\WYU-980.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Visual Code\WYU-980\WYU-980\obj\Debug\netcoreapp3.1\WYU-980.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Visual Code\WYU-980\WYU-980\obj\Debug\netcoreapp3.1\WYU-980.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Visual Code\WYU-980\WYU-980\obj\Debug\netcoreapp3.1\WYU-980.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Visual Code\WYU-980\WYU-980\obj\Debug\netcoreapp3.1\WYU-980.dll
+C:\Users\Administrator\Desktop\Visual Code\WYU-980\WYU-980\obj\Debug\netcoreapp3.1\WYU-980.pdb
+C:\Users\Administrator\Desktop\Visual Code\WYU-980\WYU-980\obj\Debug\netcoreapp3.1\WYU-980.genruntimeconfig.cache
