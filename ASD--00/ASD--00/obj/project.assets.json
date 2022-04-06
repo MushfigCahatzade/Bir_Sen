@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Entities class library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Utils class library": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Entities class library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entities class library.dll": {}
+        }
+      },
+      "Utils class library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Utils class library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Utils class library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entities class library/1.0.0": {
+      "type": "project",
+      "path": "../Entities class library/Entities class library.csproj",
+      "msbuildProject": "../Entities class library/Entities class library.csproj"
+    },
+    "Utils class library/1.0.0": {
+      "type": "project",
+      "path": "../Utils class library/Utils class library.csproj",
+      "msbuildProject": "../Utils class library/Utils class library.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Entities class library >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Visual Code\\ASD--00\\ASD--00\\ASD--00.csproj",
+      "projectName": "ASD--00",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\Visual Code\\ASD--00\\ASD--00\\ASD--00.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\Visual Code\\ASD--00\\ASD--00\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Administrator\\Desktop\\Visual Code\\ASD--00\\Entities class library\\Entities class library.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Desktop\\Visual Code\\ASD--00\\Entities class library\\Entities class library.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
